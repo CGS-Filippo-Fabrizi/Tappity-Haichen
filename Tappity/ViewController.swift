@@ -3,7 +3,7 @@
 //  Tappity
 //
 //  Created by Haichen Huang on 30/5/17.
-//  Copyright © 2017 Haichen Huang. All rights reserved.
+//  Copyright © 2017 Haichen Huang and Filippo xd. All rights reserved.
 //
 
 import UIKit

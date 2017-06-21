@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "D0DB4708A8BCE061F65EF402803D377158253F08",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "D0DB4708A8BCE061F65EF402803D377158253F08" : 9223372036854775807,
+    "5D85D1A70E83CB05927975BC773AE247828DE3DC" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "322C2B36-3616-4BC8-B2AC-7B2CC5BA10E0",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "D0DB4708A8BCE061F65EF402803D377158253F08" : "Tappity-Haichen\/",
+    "5D85D1A70E83CB05927975BC773AE247828DE3DC" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Tappity",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Tappity.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/CGS-Filippo-Fabrizi\/Tappity-Filippo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5D85D1A70E83CB05927975BC773AE247828DE3DC"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/CGS-Filippo-Fabrizi\/Tappity-Haichen.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D0DB4708A8BCE061F65EF402803D377158253F08"
+    }
+  ]
+}
